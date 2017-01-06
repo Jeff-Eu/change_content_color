@@ -5,7 +5,7 @@
     "content_scripts": 
     [
         {
-            "matches":["http://*/*", "https://*/*"],
+            "matches":["http://*/*", "https://*/*","file://*/*","ftp://*/*"],
             "js":["jquery-1.11.3.js","bg_change.js","background.js"],
             "run_at": "document_end"
         }
