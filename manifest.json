@@ -1,7 +1,7 @@
 {
   "name": "Change content color",
   "description": "Double click any region in a webpage where you want to make its color warm.",
-  "version": "1.1",
+  "version": "1.2",
     "content_scripts": 
     [
         {
